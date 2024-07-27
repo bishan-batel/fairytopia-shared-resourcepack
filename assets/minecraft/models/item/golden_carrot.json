@@ -6,7 +6,13 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 48269
+        "custom_model_data": 420
+      },
+      "model": "goos:item/wine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 328952
       },
       "model": "goos:item/beer_mug"
     }

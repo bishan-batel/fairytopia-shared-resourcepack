@@ -2,12 +2,39 @@
   "pack": {
     "pack_format": 22,
     "description": [
-      {"text":"Fairy Topia","bold":true,"italic":true,"color":"light_purple"},
-      {"text":" RP", "bold": false, "color": "gray"},
-      {"text":" (","color":"dark_gray", "bold": false},
-      {"text":"organized by ","italic":true,"color":"gray", "bold": false},
-      {"text":"goos","italic":true,"color":"blue", "bold": false},
-      {"text":")","color":"dark_gray", "bold": false}
+      {
+        "text": "Fairy Topia",
+        "bold": true,
+        "italic": true,
+        "color": "light_purple"
+      },
+      {
+        "text": " RP",
+        "bold": false,
+        "color": "gray"
+      },
+      {
+        "text": " (",
+        "color": "dark_gray",
+        "bold": false
+      },
+      {
+        "text": "organized by ",
+        "italic": true,
+        "color": "gray",
+        "bold": false
+      },
+      {
+        "text": "goos",
+        "italic": true,
+        "color": "blue",
+        "bold": false
+      },
+      {
+        "text": ")",
+        "color": "dark_gray",
+        "bold": false
+      }
     ]
   }
 }

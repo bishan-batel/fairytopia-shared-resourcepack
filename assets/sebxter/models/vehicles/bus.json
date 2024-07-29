@@ -1,12 +1,12 @@
 {
 	"credit": "www.sebxter.pl",
 	"textures": {
-		"0": "bus.png",
-		"4": "bus_decoration.png",
-		"101": "tires_and_seats.png",
-		"102": "car_steering_wheel.png",
-		"103": "tires.png",
-		"104": "seats_texture.png"
+		"0": "sebxter:vehicles/bus",
+		"4": "sebxter:vehicles/bus_decoration",
+		"101": "sebxter:vehicles/tires_and_seats",
+		"102": "sebxter:vehicles/car_steering_wheel",
+		"103": "sebxter:vehicles/tires",
+		"104": "sebxter:vehicles/seats_texture"
 	},
 	"elements": [
 		{

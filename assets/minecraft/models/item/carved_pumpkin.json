@@ -6,6 +6,12 @@
         "custom_model_data": 328952
       },
       "model": "goos:item/beer_mug"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 500
+      },
+      "model": "sebxter:vehicles/bus"
     }
   ]
 }

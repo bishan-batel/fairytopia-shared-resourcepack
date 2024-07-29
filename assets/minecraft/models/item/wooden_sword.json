@@ -9,6 +9,12 @@
         "custom_model_data": 420
       },
       "model": "goos:item/the_thing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 500
+      },
+      "model": "sebxter:vehicles/bus"
     }
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/diamond_shovel"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 420
+      },
+      "model": "goos:item/shovel"
+    }
+  ]
+}
